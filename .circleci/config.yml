@@ -20,7 +20,7 @@ jobs:
           command: dotnet.exe build --configuration Release
       - run:
           name: "install-packagesn"
-          command: libssl-dev ruby
+          command: ln -s /usr/lib/libssl.so.47.0.6 /usr/lib/libssl.so.1.0.0
 workflows:
   heroku_deploy:
     jobs:
