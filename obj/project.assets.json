@@ -9467,18 +9467,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laptop\\OneDrive\\Documents\\GitHub\\AOS-Aquarium-Online-Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\Users\\Laptop\\OneDrive\\Desktop\\a\\AOS\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\Users\\Laptop\\OneDrive\\Documents\\GitHub\\AOS-Aquarium-Online-Shop\\Shop.csproj",
+      "projectPath": "C:\\Users\\Laptop\\OneDrive\\Desktop\\a\\AOS\\Shop.csproj",
       "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop\\OneDrive\\Documents\\GitHub\\AOS-Aquarium-Online-Shop\\obj\\",
+      "outputPath": "C:\\Users\\Laptop\\OneDrive\\Desktop\\a\\AOS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -9486,7 +9486,7 @@
       },
       "frameworks": {
         "net5.0": {
-          "targetAlias": "net5.0",
+          "targetAlias": "netcoreapp5.0",
           "projectReferences": {}
         }
       },
@@ -9498,7 +9498,7 @@
     },
     "frameworks": {
       "net5.0": {
-        "targetAlias": "net5.0",
+        "targetAlias": "netcoreapp5.0",
         "dependencies": {
           "ClosedXML": {
             "target": "Package",
